@@ -1,0 +1,64 @@
+{
+  "$schema": "https://raw.githubusercontent.com/pewplay/pewplay/main/schema/game.schema.json",
+  "title": "Flag Quiz",
+  "description": "Guess the country from its flag, or pick the right flag for a country, in a fast twelve-question geography quiz. Free in your browser.",
+  "about": "Flag Quiz is a quick geography game that tests how well you know the flags of the world. Each round has twelve questions with ten seconds to answer. Most questions show a flag and ask you to choose the right country from four options; every third question turns it around and asks you to find the flag of a given country among four similar ones.\n\nThe wrong answers usually come from the same continent, so neighbouring countries with similar colors show up side by side and you have to look closely. Answer quickly for a time bonus and chain correct answers for a streak bonus.\n\nPlay the whole world or focus on Europe, Asia, Africa, the Americas or Oceania. At the end of the round you see which flags to review, and your best score is saved for each region.",
+  "howToPlay": "Look at the flag and tap the matching country, or read the country name and tap its flag. You have ten seconds per question. Correct answers earn 100 points plus a bonus for speed and for streaks. After twelve questions you get your score and a list of flags to review.",
+  "controls": [
+    {
+      "input": "Click / Tap",
+      "action": "Choose an answer"
+    },
+    {
+      "input": "1 – 4",
+      "action": "Choose an answer with the keyboard"
+    },
+    {
+      "input": "Enter / Space",
+      "action": "Go to the next question"
+    },
+    {
+      "input": "Esc / P",
+      "action": "Pause"
+    }
+  ],
+  "tips": [
+    "Check the order of the stripes: many flags use the same colors in a different order.",
+    "Horizontal and vertical tricolors are easy to confuse, so look at the direction first.",
+    "Many flags in the same region share colors, so look at symbols, emblems and stripe order.",
+    "Practise one region at a time before trying the whole world."
+  ],
+  "faq": [
+    {
+      "question": "Is Flag Quiz free to play?",
+      "answer": "Yes. Flag Quiz is free and runs in your browser, with no download or sign-up."
+    },
+    {
+      "question": "Can I play on a phone or tablet?",
+      "answer": "Yes. The answers are large buttons designed for touch, and the layout adapts to portrait and landscape."
+    },
+    {
+      "question": "Which flags are included?",
+      "answer": "All 196 independent countries, from every continent. You can play the whole world or one region at a time."
+    }
+  ],
+  "category": "Educational",
+  "tags": [
+    "flags",
+    "geography",
+    "quiz",
+    "countries",
+    "educational"
+  ],
+  "author": "PewPlay",
+  "playMode": "SinglePlayer",
+  "orientation": "any",
+  "cover": "cover.png",
+  "screenshots": [
+    "screenshots/1.png",
+    "screenshots/2.png",
+    "screenshots/3.png"
+  ],
+  "added": "2026-11-26",
+  "draft": false
+}
